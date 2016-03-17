@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/achiko/markdownparser/issues"
   },
-  "homepage": "https://github.com/achiko/markdownparser#readme"
+  "homepage": "https://github.com/achiko/markdownparser#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "mocha": "^2.4.5",
+    "mongoose": "^4.4.6",
+    "should": "^8.2.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
